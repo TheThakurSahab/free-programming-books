@@ -641,6 +641,7 @@
 * [Complete DevOps Zero to Hero Course](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa) - Abhishek Veeramalla
 * [DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) - Kunal Kushwaha
 * [DevOps Full Course ](https://www.youtube.com/watch?v=lpk7VpGqkKw) - Simplilearn
+* [DevOps/SRE Interview Questions](https://youtube.com/playlist?list=PLhqPDa2HoaAZcamYtXr-ijXBT-vcUBcNX&feature=shared) - PracticalCSJourney
 * [DevOps Tutorial for Beginners](https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE) - Intellipaat
 * [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611) - Karl Krueger, Dwayne Lessner, Gundega Dekena (Udacity)
 
