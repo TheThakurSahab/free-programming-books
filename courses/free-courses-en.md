@@ -1268,6 +1268,7 @@
 
 ### Linux
 
+* [Computer Networking Tutorial](https://youtube.com/playlist?list=PLhqPDa2HoaAYYXjiIdRsf5-tKmJUlZx4o&feature=shared) - PracticalCSJourney
 * [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-of-red-hat-enterprise-linux) - Chris Caillouet (edX)
 * [IIEC RISE 1.0 RHCSA8 and Python3](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ2b1mUmrUcc_aEoc8tfss8e) - Vimal Daga
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
