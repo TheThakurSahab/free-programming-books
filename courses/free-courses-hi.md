@@ -318,6 +318,8 @@
 * [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
 * [Server Configuration, Deployment & VPS Tutorials For Beginners](https://www.youtube.com/playlist?list=PLu0W_9lII9aiBNXUisDdSmfNbsKq407XC) - CodeWithHarry
+* [The Kubernetes Production Series](https://youtube.com/playlist?list=PL-yO32WqsOQgVcd1cSfbU6YsUwVBTTACr&feature=shared) - Tech With Prerit
+
 
 
 ### Figma
