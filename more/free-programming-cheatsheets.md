@@ -187,6 +187,7 @@
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
+* [Go Cheatsheet](https://quickref.me/go.html) - QuickRef.ME
 * [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
