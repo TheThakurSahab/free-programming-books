@@ -218,6 +218,7 @@
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
+* [Java Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/) - Princeton University
 * [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
